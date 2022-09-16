@@ -1,7 +1,7 @@
 # Restrict Access module
 author: andreaortogni@gmail.com
 
-This module provides a redirect to login page for all customers who hasn't logged yet.
+This module for Magento 2 provides a redirect to login page for all customers who hasn't logged yet.
 
 
 ## Compatibility:
